@@ -17,6 +17,3 @@ Welcome to Trivia Quest, an engaging quiz game built with Python. Trivia Quest u
 ## Requirements
 - Python 3.x
 - `requests` library (install using `pip install requests`)
-
-## License
-This project is licensed under the MIT License.
