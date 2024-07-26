@@ -10,9 +10,18 @@ Trivia Quest is an engaging quiz game built with Python. It uses the Open Trivia
 - Handles HTML entities to ensure questions are displayed correctly.
 
 ## How to Use
-1. **Clone the Repository**: `git clone https://github.com/SantoshNtrjn/trivia-quest.git`
-2. **Navigate to the Project Directory**: `cd trivia-quest`
-3. **Run the Main Program**: `python main.py`
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/SantoshNtrjn/trivia-quest.git
+    ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd trivia-quest
+   ```
+3. **Run the Main Program**:
+   ```bash
+   python main.py
+   ```
 4. **Follow the Prompts**: Enter your preferences and start the quiz.
 
 ## Requirements
