@@ -9,7 +9,7 @@ Welcome to Trivia Quest, an engaging quiz game built with Python. Trivia Quest u
 - Handles HTML entities to ensure questions are displayed correctly.
 
 ## How to Use
-1. **Clone the Repository**: `git clone https://github.com/yourusername/trivia-quest.git`
+1. **Clone the Repository**: `git clone https://github.com/SantoshNtrjn/trivia-quest.git`
 2. **Navigate to the Project Directory**: `cd trivia-quest`
 3. **Run the Main Program**: `python main.py`
 4. **Follow the Prompts**: Enter your preferences and start the quiz.
