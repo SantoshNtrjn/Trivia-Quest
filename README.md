@@ -1,6 +1,7 @@
 # Trivia Quest [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to Trivia Quest, an engaging quiz game built with Python. Trivia Quest uses the Open Trivia Database API to fetch real-time questions, allowing you to test your knowledge across various categories and difficulty levels.
+## Overview
+Trivia Quest is an engaging quiz game built with Python. It uses the Open Trivia Database API to fetch real-time questions, allowing you to test your knowledge across various categories and difficulty levels.
 
 ## Features
 - Fetches questions dynamically using the Open Trivia Database API.
